@@ -1,11 +1,11 @@
 
 HEY, DAVA is here
 
-Hello guys, my name is Dava Adriansyah. I'm a college student (at Polytechnic) and a Content Creator from Indonesia.
+my name is Dava Adriansyah. I'm a college student (at Polytechnic) and a Content Creator from Indonesia.
 
 Talking about Personal Stuffs:
 - I am an Informatics Engineering student at POLIWANGI👨‍🎓
-- I'm currently studying Machine Learning😆 & Graphic Designer🤩
+- I'm currently studying Mobile language(flutter)😆 & Graphic Designer🤩
 - 💖My interests are Frontend Developer, Mobile App, Graphic Designer, etc.
 - Ask me about anything, I am happy to help☺
 - 📫 Please email via davahanyanama@gmail.com to reach me.
